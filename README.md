@@ -1,2 +1,0 @@
-# myapp
-server替わり
